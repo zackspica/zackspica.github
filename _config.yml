@@ -26,10 +26,10 @@ gems:
 
 # Site owner
 owner:
-  name: Zack Spica 
-  email: zspica[at]stanford[dot]edu
+  name:
+  email:
   twitter:
-  google: 
+  google:
     ad-client:
     ad-slot:
   bio:
