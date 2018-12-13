@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: CV
+  url: /CV/
+  excerpt: "My curriculum Vitae"
+  image: 
