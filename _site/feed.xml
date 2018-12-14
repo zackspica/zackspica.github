@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/cayman-blog/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/cayman-blog/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cayman Blog Theme</title>
+		<description>Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.</description>
+		<link>http://localhost:4000/cayman-blog/</link>
+		<atom:link href="http://localhost:4000/cayman-blog/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>You can delete this file</title>
+				<link>http://localhost:4000/cayman-blog/dummy/2015/10/15/dummy-delete-me.html</link>
+				<pubDate>Thu, 15 Oct 2015 00:00:00 -0400</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/cayman-blog/dummy/2015/10/15/dummy-delete-me.html</guid>
+			</item>
+		
+			<item>
+				<title>You can delete this file</title>
+				<link>http://localhost:4000/cayman-blog/dummy/2015/10/13/dummy-delete-me-copy-4.html</link>
+				<pubDate>Tue, 13 Oct 2015 00:00:00 -0400</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/cayman-blog/dummy/2015/10/13/dummy-delete-me-copy-4.html</guid>
+			</item>
+		
+			<item>
+				<title>You can delete this file</title>
+				<link>http://localhost:4000/cayman-blog/dummy/2015/10/12/dummy-delete-me-copy-5.html</link>
+				<pubDate>Mon, 12 Oct 2015 00:00:00 -0400</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/cayman-blog/dummy/2015/10/12/dummy-delete-me-copy-5.html</guid>
+			</item>
+		
+			<item>
+				<title>You can delete this file</title>
+				<link>http://localhost:4000/cayman-blog/dummy/2015/10/11/dummy-delete-me-copy-3.html</link>
+				<pubDate>Sun, 11 Oct 2015 00:00:00 -0400</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/cayman-blog/dummy/2015/10/11/dummy-delete-me-copy-3.html</guid>
+			</item>
+		
+			<item>
+				<title>You can delete this file</title>
+				<link>http://localhost:4000/cayman-blog/dummy/2015/10/10/dummy-delete-me-copy-2.html</link>
+				<pubDate>Sat, 10 Oct 2015 00:00:00 -0400</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/cayman-blog/dummy/2015/10/10/dummy-delete-me-copy-2.html</guid>
+			</item>
+		
+	</channel>
+</rss>

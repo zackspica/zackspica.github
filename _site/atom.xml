@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/cayman-blog/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/cayman-blog/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/cayman-blog/</id>
+	<title>Cayman Blog Theme</title>
+	<updated>2018-12-14T12:17:53-05:00</updated>
+
+	<subtitle>Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Lore Pirri</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/cayman-blog/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/cayman-blog/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/cayman-blog/dummy/2015/10/15/dummy-delete-me.html</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/cayman-blog/dummy/2015/10/15/dummy-delete-me.html" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-15T00:00:00-04:00</updated>
+
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/cayman-blog/dummy/2015/10/15/dummy-delete-me.html"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-15T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/cayman-blog/dummy/2015/10/13/dummy-delete-me-copy-4.html</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/cayman-blog/dummy/2015/10/13/dummy-delete-me-copy-4.html" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-13T00:00:00-04:00</updated>
+
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/cayman-blog/dummy/2015/10/13/dummy-delete-me-copy-4.html"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-13T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/cayman-blog/dummy/2015/10/12/dummy-delete-me-copy-5.html</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/cayman-blog/dummy/2015/10/12/dummy-delete-me-copy-5.html" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-12T00:00:00-04:00</updated>
+
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/cayman-blog/dummy/2015/10/12/dummy-delete-me-copy-5.html"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-12T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/cayman-blog/dummy/2015/10/11/dummy-delete-me-copy-3.html</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/cayman-blog/dummy/2015/10/11/dummy-delete-me-copy-3.html" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-11T00:00:00-04:00</updated>
+
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/cayman-blog/dummy/2015/10/11/dummy-delete-me-copy-3.html"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-11T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/cayman-blog/dummy/2015/10/10/dummy-delete-me-copy-2.html</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/cayman-blog/dummy/2015/10/10/dummy-delete-me-copy-2.html" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-10T00:00:00-04:00</updated>
+
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/cayman-blog/dummy/2015/10/10/dummy-delete-me-copy-2.html"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-10T00:00:00-04:00</published>
+		</entry>
+	
+</feed>
