@@ -1,8 +1,14 @@
 # Site navigation links
 
-- title: CV
-  url: /CV/
-  excerpt: "My curriculum Vitae"
+- title: Home
+  url: /
 
-- title: Made Mistakes
-  url: http://mademistakes.com  
+- title: Research
+  url: /Reasearch/
+
+- title: Publications
+  url: /Publications/
+
+- titel: Research Products
+  url: /RP/
+
