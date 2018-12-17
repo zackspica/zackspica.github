@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="row content-row">
-<div class="col-19 col-sm-4">
+<div class="col-39 col-sm-4">
     <img src="{{ site.baseurl }}/images/bio.jpg">
 </div>
 <div class="col-12 col-sm-8">
