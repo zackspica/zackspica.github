@@ -4,7 +4,7 @@ layout: post
 use_code: true
 ---
 
-Official github Cayman Theme tuto: use it to wrtie markdown files.
+Official github Cayman Theme tuto: use it to write markdown files.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

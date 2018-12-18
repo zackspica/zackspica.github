@@ -33,7 +33,7 @@ The major structures observed in the 3-D model are in agreement with the tectoni
 
 
 <h4><u>Viewer </u></h4>
-A viewer allows interacting with the 3-D model. It is a compiled MATLAB executable for Windows, Linux and Mac which will install both the MATLAB runtime (if required) and the viewer software. It allows viewing and extracting: <ul>
+A viewer allows interacting with the 3-D model. It is a compiled MATLAB executable for <a href="https://drive.google.com/open?id=1hXdDL01jEtau232xgQdV-9afEBRBhlvs"><i class="fa Windows"></i>Windows</a>, Linux and <a href="https://drive.google.com/open?id=1eMrCi55yoJ_I0H-qxwAuKupiBtTPqzJm"><i class="fa Apple"></i>Mac</a>, which will install both the MATLAB runtime (if required) and the viewer software. It allows viewing and extracting: <ul>
 <li>Period maps</li> 
 <li>Local 1D profile on any point of the grid along with the associated dispersion curves (target and best-fit) as well as the dispersion curves obtained from a previous study (Gaite et al., 2015 <a href="https://drive.google.com/open?id=0B9EECE2zCPBqaGpSWDAyS0FDNDg"><i class="fa fa-file-pdf"></i>Paper</a>).</li>
 <li>Vs velocity model. Both depth maps and cross-section between two points of the grid are extractable.
