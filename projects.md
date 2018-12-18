@@ -16,10 +16,10 @@ use_fontawesome: true
     <p class="italic">Summer 2017 - Present</p>
     <p><span class="bold">Abstract:</span> Obtaining detailed and reliable data about local economic livelihoods in developing countries is expensive, and data are consequently scarce. Previous work has shown that it is possible to measure local-level economic livelihoods using high-resolution satellite imagery. However, such imagery is relatively expensive to acquire, often not updated frequently, and is mainly available for recent years. We train CNN models on free and publicly available multispectral daytime satellite images of the African continent from the Landsat 7 satellite, which has collected imagery with global coverage for almost two decades. We show that despite these images' lower resolution, we can achieve accuracies that exceed previous benchmarks.</p>
     <p><span class="bold">Mentors:</span> Stefano Ermon, Marshall Burke, David Lobell</p>
-    <p><span class="bold">Conference Workshop Paper:</span> NIPS Conference 2017, Workshop on Machine Learning for the Developing World</p>
+    <p><span class="bold">Conference Workshop Paper:</span> NIPS Conference 2017, Workshop on Machine Learning for the Developing World
     <a href="https://arxiv.org/pdf/1711.03654.pdf" class="btn btn-light">
         <i class="fa fa-file"></i> Paper
-    </a>
+    </a></p>
 </div>
 </div>
 <hr>
