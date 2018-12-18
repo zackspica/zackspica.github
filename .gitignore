@@ -4,4 +4,4 @@ _site/
 Gemfile
 Gemfile.lock
 .sass-casche
-files/
+projects.md
