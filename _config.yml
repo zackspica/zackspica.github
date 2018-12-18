@@ -3,7 +3,8 @@ title: Zack Spica
 #description: Stanford University, Class of 2018
 
 highlighter: rouge
-
+plugins:
+  - jemoji
 ##### BUILD SETTINGS #####
 # incremental: true
 
@@ -11,3 +12,5 @@ highlighter: rouge
 # http://jch.penibelst.de/
 compress_html:
   blanklines: true
+
+exclude: ["README.md"]
