@@ -26,14 +26,14 @@ The major structures observed in the 3-D model are in agreement with the tectoni
 <div class="row content-row">
 
 <div class="col-12 col-sm-12"><ul>
-<li>The 3-D model resulting from the inversion can be downloaded as a MATLAB <a href="https://drive.google.com/file/d/1K3_zG8mgg5DUkNR298DMHXBejMSQQGNI/view?usp=sharing"><i class="fa fa-save"></i> file </a>. It contains the positions of the center of the grid cells and the tensors Mh, Mrho, MVp, MVs which correspond respectively to the thickness, density, compressional and shear velocities at the cells location for the several layers considered.</li>
+<li>The 3-D model resulting from the inversion can be downloaded as a MATLAB <a href="https://github.com/zackspica/zackspica.github.io/releases/tag/Models"><i class="fa fa-save"></i> file </a>. It contains the positions of the center of the grid cells and the tensors Mh, Mrho, MVp, MVs which correspond respectively to the thickness, density, compressional and shear velocities at the cells location for the several layers considered.</li>
 <li>The 1st dimension is related to latitudes.</li>
 <li>The 2nd dimension is related to longitudes.</li>
 <li>The 3rd dimension is related to the layer number (1 is for the top layer).</li></ul>
 
 
 <h4><u>Viewer </u></h4>
-A viewer allows interacting with the 3-D model. It is a compiled MATLAB executable for <a href="https://drive.google.com/open?id=1hXdDL01jEtau232xgQdV-9afEBRBhlvs"><i class="fa Windows"></i>Windows</a>, Linux and <a href="https://drive.google.com/open?id=1eMrCi55yoJ_I0H-qxwAuKupiBtTPqzJm"><i class="fa Apple"></i>Mac</a>, which will install both the MATLAB runtime (if required) and the viewer software. It allows viewing and extracting: <ul>
+A viewer allows interacting with the 3-D model. It is a compiled MATLAB executable for <a href="https://github.com/zackspica/zackspica.github.io/releases/tag/final"><i class="fa Windows"></i>Windows</a>, Linux and <a href="https://github.com/zackspica/zackspica.github.io/releases/tag/finalMac"><i class="fa Apple"></i>Mac</a>, which will install both the MATLAB runtime (if required) and the viewer software. It allows viewing and extracting: <ul>
 <li>Period maps</li> 
 <li>Local 1D profile on any point of the grid along with the associated dispersion curves (target and best-fit) as well as the dispersion curves obtained from a previous study (Gaite et al., 2015 <a href="https://drive.google.com/open?id=0B9EECE2zCPBqaGpSWDAyS0FDNDg"><i class="fa fa-file-pdf"></i>Paper</a>).</li>
 <li>Vs velocity model. Both depth maps and cross-section between two points of the grid are extractable.
