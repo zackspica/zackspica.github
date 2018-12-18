@@ -5,6 +5,8 @@ use_toc: true
 excerpt: Here is a brief summary of how to set up this blog / website using Jekyll on GitHub Pages.
 ---
 
+The original version of this website comes from Chris Yeh @ Stanford University (thanks to him!)
+
 ## How GitHub Pages Works
 
 The User Pages default domain and host location (repository name) on GitHub is `username.github.io`. User Pages are automatically served over HTTPS from the `master` branch.
