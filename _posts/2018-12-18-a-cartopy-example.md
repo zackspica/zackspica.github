@@ -1,5 +1,5 @@
 ---
-title: "The Stanford University map with cartopy and California outline"
+title: "The Stanford University Map and California Outline with Cartopy"
 layout: post
 comments: true
 use_code: true
