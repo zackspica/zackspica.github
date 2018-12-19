@@ -5,7 +5,7 @@ use_toc: true
 excerpt: Here is a brief summary of how to set up this blog / website using Jekyll on GitHub Pages.
 ---
 
-The original version of this website comes from Chris Yeh @ Stanford University (thanks to him!)
+The original version of this website comes from Chris Yeh @ Stanford University (peace to him!).  Here comes most of its comments in regard to the details of the website. 
 
 ## How GitHub Pages Works
 

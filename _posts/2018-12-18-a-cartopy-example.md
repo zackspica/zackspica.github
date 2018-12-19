@@ -1,12 +1,12 @@
 ---
-title: "The Stanford University map with cartopy"
+title: "The Stanford University map with cartopy and California outline"
 layout: post
 comments: true
 use_code: true
 ---
 
 I recently got involved in Fiber-Optic seismology using Distributed Acoustic Sensing (DAS). With DAS, the number of sensors used is an order of magnitude higher than with conventional seismic experiment and the sensor spacing may be at the scale of 1 m. 
-With such technology detailed mapping of urban area must be provide to understand which sensor proves which region. Cartopy offers an amazing tool to do so and here is an example: 
+With such technology, detailed mapping of urban area must be provided to understand which sensor probes which region. [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) offers an amazing tool to do so and here is an example: 
 
 ```py
 import matplotlib.pyplot as plt
@@ -14,7 +14,7 @@ from pyrocko import model
 import cartopy.crs as ccrs
 from cartopy.io.img_tiles import OSM
 from cartopy.mpl.gridliner import LONGITUDE_FORMATTER, LATITUDE_FORMATTER
-# Pyrocko is an awsome package for seismology
+# Pyrocko is an awsome package for seismology - https://pyrocko.org/
 stations = model.load_stations('stations.txt')
 # Fig setting
 fig = plt.figure()
@@ -43,14 +43,16 @@ for i, sta in enumerate(stations):
 That's it. Now let's try to add to outline of California out of the main plot to better locate where Stanford University is. Although it sounds simple it took me quiet a long time to figure out which file to download and how to deal with it. I got inspired by [this caropy tuto](https://scitools.org.uk/cartopy/docs/v0.15/examples/hurricane_katrina.html). 
 
 ```py
+import cartopy.io.shapereader as shpreader
+# Create a new ax for California
 ax2 = fig.add_axes([0.75,.13,.25,.25], projection=ccrs.Mercator())
 ax2.set_extent([-126, -114, 32, 42], ccrs.Geodetic())  
 # This is the file you actually need
 shapename = 'admin_1_states_provinces_lakes_shp'
 # Then cartopy does the rest
 states_shp = shpreader.natural_earth(resolution='110m',category='cultural', name=shapename)
-
-
+# And here is how to properly read the file
+# It is divide in geometries (xy) and the records (tags)
 reader = shpreader.Reader(states_shp)
 records = reader.records()
 geometries = reader.geometries()
@@ -63,125 +65,10 @@ ax2.background_patch.set_visible(False)
 ax2.outline_patch.set_visible(False)
 ax2.scatter(-122.175,37.428, transform=ccrs.Geodetic(), color='#8C1515', marker='*',s=50)
 ax2.text(-122, 38, 'California', rotation=-45, transform=ccrs.Geodetic())
-
 ```
-
-
-
-[Link to another page: About]({{ site.baseurl }}/about).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
 
 ![](https://zackspica.github.com/images/map.png)
 
+Hope it helps! Such a simple post would have save me a lot of time at least. 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
