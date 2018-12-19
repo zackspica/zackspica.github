@@ -39,7 +39,13 @@ A viewer allows interacting with the 3-D model. It is a compiled MATLAB executab
 <li>Vs velocity model. Both depth maps and cross-section between two points of the grid are extractable.
 3D box of the Vs model. Draw a box on the map and extract this part of the model.</li>
 <li>Map of the misfit.</li></ul>
-If you have any issue with the installation or with the programs, don’t hesitate to write <a href="mailto:zspica@stanford.edu;mathieuperton@gmail.com"> <i class="far fa-envelope"></i> us an Email</a>.
+If you have any issue with the installation or with the programs, don’t hesitate to write <a href="mailto:zspica@stanford.edu;mathieuperton@gmail.com"> <i class="far fa-envelope"></i> us an Email</a>, we will be happy to collaborate if more assitance is needed. Please refer to our work as:
+<pre class="code">
+<span><code>Spica, Z., Perton, M., Calò, M., Legrand, D., Córdoba-Montiel, F. and Iglesias, A., 2016. 3-D shear wave velocity model of 
+Mexico and South US: bridging seismic networks with ambient noise cross-correlations (C1) and correlation of coda of 
+correlations (C3). Geophysical Journal International, 206(3), pp.1795-1813, doi:10.1093/gji/ggw240</code></span>
+</pre>
+
 <div class="col-12 col-sm-12 image-wrapper">
     <img src="{{ site.baseurl }}/images/vidsures.gif">
 </div>
@@ -56,4 +62,3 @@ Zack Spica, <a href="https://academic.oup.com/gji/article-abstract/206/3/1795/25
 
 
 
-<hr>

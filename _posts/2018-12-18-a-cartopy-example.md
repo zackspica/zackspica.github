@@ -63,6 +63,7 @@ for state_record, state_geometry in zip(records, geometries):
 # turn off the outline and background patches
 ax2.background_patch.set_visible(False)
 ax2.outline_patch.set_visible(False)
+# Add some stuff to the map
 ax2.scatter(-122.175,37.428, transform=ccrs.Geodetic(), color='#8C1515', marker='*',s=50)
 ax2.text(-122, 38, 'California', rotation=-45, transform=ccrs.Geodetic())
 ```
