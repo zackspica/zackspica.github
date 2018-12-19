@@ -13,4 +13,4 @@ plugins:
 compress_html:
   blanklines: true
 
-exclude: ["README.md"]
+exclude: ['README.md']
