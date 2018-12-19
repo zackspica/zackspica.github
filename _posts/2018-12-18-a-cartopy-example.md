@@ -40,7 +40,7 @@ for i, sta in enumerate(stations):
     if i < 301: plt.scatter(sta.lon, sta.lat, transform=ccrs.Geodetic(),color='k',s=1)
 ```
 
-That's it. Now let's try to add to outline of California out of the main plot to better locate where Stanford University is. Although it sounds simple it took me quiet a long time to figure out which file to download and how to deal with it. I got inspired by [this tuto](https://scitools.org.uk/cartopy/docs/v0.15/examples/hurricane_katrina.html). 
+That's it. Now let's try to add to outline of California out of the main plot to better locate where Stanford University is. Although it sounds simple it took me quiet a long time to figure out which file to download and how to deal with it. I got inspired by [this caropy tuto](https://scitools.org.uk/cartopy/docs/v0.15/examples/hurricane_katrina.html). 
 
 ```py
 ax2 = fig.add_axes([0.75,.13,.25,.25], projection=ccrs.Mercator())
@@ -162,7 +162,7 @@ end
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](https://zackspica.github.com/images/map.png)
 
 
 ### Definition lists can be used with HTML syntax.
