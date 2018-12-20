@@ -5,7 +5,7 @@ use_toc: true
 excerpt: Here is a brief summary of how to set up this blog / website using Jekyll on GitHub Pages.
 ---
 
-The original version of this website comes from Chris Yeh @ Stanford University (peace to him!).  Here comes most of its comments in regard to the details of the website. 
+The original version of this website comes from Chris Yeh @ Stanford University (peace to him!). Here comes most of its comments in regard to the details of the website. 
 
 ## How GitHub Pages Works
 
@@ -13,7 +13,7 @@ The User Pages default domain and host location (repository name) on GitHub is `
 
 As far as I can tell, Jekyll is already enabled by default. In other words, there is no setting that you have to "turn on" in order to get Jekyll to start working on GitHub Pages. Simply by following the directory structure that Jekyll requires will result in the site getting built by Jekyll.
 
-## My Setup
+## The Setup
 
 I initially selected the `Cayman` theme as I found it the most pleasing among the different themes that are "officially supported" by GitHub Pages. However, it doesn't come with any sort of navigation bar, so I found the `Cayman Blog` theme which does.
 
