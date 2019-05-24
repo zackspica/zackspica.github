@@ -10,6 +10,24 @@ use_fontawesome: true
 Seismic waves, their velocities and attenuation tell us about variable states of stress as well as the stiffness of the Earth. My main research tool is <b>seismic interferometry</b>, with which we can extract coherent waves propagating between receivers (i.e., the Green's function) by correlating interference patterns of chaotic waves. The so-called ambient field correlation techniques have revolutionized seismology over the last decade. While these methods are continuously being developed and becoming more accurate, their drawbacks are also becoming more apparent. As a researcher, I want to work on these two fronts by pioneering new approaches to take advantage of the observational capabilities, and to transform the large amounts of data from seismic arrays to our fundamental understanding of the Earth.</p>
 <hr>
 
+
+<!--
+<div class="row content-row">
+<div class="col-12 col-sm-4 image-wrapper">
+    <img src="{{ site.baseurl }}/images/DAS.png">
+</div>
+<div class="col-12 col-sm-8">
+    <h3>Fiber Optic Seismology</h3>
+    <p class="italic">2017 - Present</p>
+    <p><span class="bold">Goal:</span> Distributed Acoustic Sensing (DAS) can transform the already existing underground network of fiber-optic cables essential to modern life as arrays of thousands of seismometers  with a measurement density on the order of meters and so, in a cost-effective way. DAS relies on coherent optical time-domain reflectometry to precisely measure the amplitude and phase of vibrations along a fiber. This new type of data for seismologists is offering many new opportunities for research. We want to explore its potential for ultra-high resolution imaging, microzonation in urban areas and possibly for landlside and volcano monitoring. (Figure is courtesy of Lelouch et al,. under review)    </p>
+    <p><span class="bold">Main collaborator:</span> Mathieu Perton <a href="https://scholar.google.be/citations?user=KjoEGVQAAAAJ&hl=en&inst=5746887945952177237&oi=ao" target="_blank" class="btn btn-light"><i class="fab fa-google"></i> Scholar</a></p>
+</div>
+</div>
+<hr>
+
+-->
+
+
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/hvsr.png">
