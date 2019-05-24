@@ -40,7 +40,7 @@ for i, sta in enumerate(stations):
     if i < 301: plt.scatter(sta.lon, sta.lat, transform=ccrs.Geodetic(),color='k',s=1)
 ```
 
-That's it. Now let's try to add to outline of California out of the main plot to better locate where Stanford University is. Although it sounds simple it took me quiet a long time to figure out which file to download and how to deal with it. I got inspired by [this caropy tuto](https://scitools.org.uk/cartopy/docs/v0.15/examples/hurricane_katrina.html). 
+That's it. Now let's try to add to outline of California out of the main plot to better locate where is Stanford University. Although it sounds simple it took me quiet a long time to figure out which file to download and how to deal with it. I got inspired by [this caropy tuto](https://scitools.org.uk/cartopy/docs/v0.15/examples/hurricane_katrina.html). 
 
 ```py
 import cartopy.io.shapereader as shpreader
@@ -70,6 +70,6 @@ ax2.text(-122, 38, 'California', rotation=-45, transform=ccrs.Geodetic())
 
 ![](https://zackspica.github.com/images/map.png)
 
-Hope it helps! Such a simple post would have save me a lot of time at least. 
+Hope it helps! Such a simple post would have saved me a lot of time at least. 
 
 
