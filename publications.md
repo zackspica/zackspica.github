@@ -4,7 +4,7 @@ layout: tab
 use_fontawesome: true
 use_math: true
 ---
-20. **Spica Z.**, Martin E., Perton M., Beroza G., Biondi B., Scaling up seismic microzonation using distributed acoustic sensing, in prep. 
+20. **Spica Z.**, Perton M., Martin E., Beroza G., Biondi B., Scaling up seismic microzonation using distributed acoustic sensing, in prep. 
 
 19. Bahavar M, Zandieh A., Toro G., Sanchez-Sesma, **Spica Z.**, et al., Horizontal-to-Vertical Spectral Ratio (HVSR) using IRIS DMC MUSTANG noise-spectrogram Web Services, in prep. 
 
