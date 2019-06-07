@@ -8,15 +8,15 @@ use_math: true
 
 19. Bahavar M, Zandieh A., Toro G., Sanchez-Sesma, **Spica Z.**, et al., Horizontal-to-Vertical Spectral Ratio (HVSR) using IRIS DMC MUSTANG noise-spectrogram Web Services, in prep. 
 
-18. Lellouch A., Yuan S., **Spica Z.**, Biondi B., and Ellsworth W.L., Seismic velocity estimation using passive downhole distributed acoustic sensing records – examples from the San Andreas Fault Observatory at Depth, under review JGR. 
+18. Perton M., **Spica Z.**, Clayton R. W., Beroza G., Assessing the Geometry of the Los Angeles Basin Using Multimode Surface Waves and Full H/V Spectral Ratio, under review GJI.
 
-17. Perton M., **Spica Z.**, Clayton R. W., Beroza G., Assessing the Geometry of the Los Angeles Basin Using Multimode Surface Waves and Full H/V Spectral Ratio, under review GJI.
+17. Thomas A. M., **Spica Z.**, Bodmer M., Schulz W. H., Roering J. R., Using a dense seismic array to determine resonances and structure of the Two Towers earthflow in Northern California, in hold. 
 
-16. Thomas A. M., **Spica Z.**, Bodmer M., Schulz W. H., Roering J. R., Using a dense seismic array to determine resonances and structure of the Two Towers earthflow in Northern California, in hold. 
+16. Lellouch A., Yuan S., **Spica Z.**, Biondi B., and Ellsworth W.L., Seismic velocity estimation using passive downhole distributed acoustic sensing records – examples from the San Andreas Fault Observatory at Depth, in press Journal of Geophysical Reasearch (Solid Earth). 
 
 15. **Spica Z.**, Perton M., Nakata N., Liu X., Beroza G., Shallow Vs imaging of the Groningen area from joint inversion of multi-mode surface waves and H/V spectral ratio, Seismological Research Letter, 2018, doi:10.1785/0220180060. <a href="https://drive.google.com/open?id=1SIf5uoR2gKO0vjCJnGVpFw8mMwJl2szL" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
-14. **Spica Z.**, Nakata N., Liu X., Campman X., Zijian T., Beroza G., Ambient Seismic Field Analysis at Groningen Gas Field: an overview from the surface to reservoir depth, Seismological Research Letter, 2018, 10.1785/0220170256. <a href="https://drive.google.com/open?id=1roXfagn5u21iyziD7XVCd3pknYTs9mTl" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+14. **Spica Z.**, Nakata N., Liu X., Campman X., Zijian T., Beroza G., Ambient Seismic Field Analysis at Groningen Gas Field: an overview from the surface to reservoir depth, Seismological Research Letter, 2018, doi: 10.1785/0220170256. <a href="https://drive.google.com/open?id=1roXfagn5u21iyziD7XVCd3pknYTs9mTl" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 13. Pritchard M. E., de Silva S. L., Michelfelder G., Zandt G., McNutt S. R., Gottsmann J., West M. E., Blundy J., Christensen D. H., Finnegan N. J., Minaya E., Sparks R. S. J., Sunagua M., Unsworth M. J., Comeau M. J., del Potro R., Diez M. , Farrell A. , Henderson S. T., Jay J. A., Naranjo J. A., McFarlin H., Muir D., Perkins J. P., Wilder A., Ward K. M., **Spica Z.**, Legrand D., PLUTONS: Investigating the Relationship Between Pluton Growth and Volcanism in the central Andes, Geosphere, 2018, doi:10.1130/GES01578.1.<a href="https://drive.google.com/open?id=1iwdobXT7rL9fmeWXeIY1krAHEeSLEG7x" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
