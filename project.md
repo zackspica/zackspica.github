@@ -11,7 +11,7 @@ Seismic waves, their velocities and attenuation tell us about variable states of
 <hr>
 
 
-<!--
+
 <div class="row content-row">
 <div class="col-12 col-sm-4 image-wrapper">
     <img src="{{ site.baseurl }}/images/DAS.png">
@@ -19,13 +19,13 @@ Seismic waves, their velocities and attenuation tell us about variable states of
 <div class="col-12 col-sm-8">
     <h3>Fiber Optic Seismology</h3>
     <p class="italic">2017 - Present</p>
-    <p><span class="bold">Goal:</span> Distributed Acoustic Sensing (DAS) can transform the already existing underground network of fiber-optic cables essential to modern life as arrays of thousands of seismometers  with a measurement density on the order of meters and so, in a cost-effective way. DAS relies on coherent optical time-domain reflectometry to precisely measure the amplitude and phase of vibrations along a fiber. This new type of data for seismologists is offering many new opportunities for research. We want to explore its potential for ultra-high resolution imaging, microzonation in urban areas and possibly for landlside and volcano monitoring. (Figure is courtesy of Lelouch et al,. under review)    </p>
-    <p><span class="bold">Main collaborator:</span> Mathieu Perton <a href="https://scholar.google.be/citations?user=KjoEGVQAAAAJ&hl=en&inst=5746887945952177237&oi=ao" target="_blank" class="btn btn-light"><i class="fab fa-google"></i> Scholar</a></p>
+    <p><span class="bold">Goal:</span> Distributed Acoustic Sensing (DAS) can transform the already existing underground network of fiber-optic cables essential to modern life as arrays of thousands of seismometers  with a measurement density on the order of meters and so, in a cost-effective way. DAS relies on coherent optical time-domain reflectometry to precisely measure the amplitude and phase of vibrations along a fiber. This new type of data for seismologists is offering many new opportunities for research. We want to explore its potential for ultra-high resolution imaging, microzonation in urban areas and possibly for landlside and volcano monitoring. (Figure is from Lelouch et al., 2019.  <a href="https://drive.google.com/file/d/1t9InBMk5L_22fcEepJIPyOPILVZrerdE/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>   </p>
+
 </div>
 </div>
 <hr>
 
--->
+
 
 
 <div class="row content-row">
