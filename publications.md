@@ -25,7 +25,7 @@ use_math: true
 
 11. **Spica Z.**, Perton M., Nakata N., Liu X., Beroza G., Site Characterization at Groningen Gas Field Area Through Joint Surface-Borehole H/V Analysis, Geophysical Journal International, 2017, doi:10.1093/gji/ggx426. <a href="https://drive.google.com/open?id=1BnT9XFHOWSnuM1l2OEM2JccngRdXi51k" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
-10. Spica Z., Perton M., Beroza G., Lateral Heterogeneity Imaged by Small-Aperture ScS Retrieval from the Ambient Seismic Field, Geophysical Research Letters, 2017, doi:10.1002/2017GL073230. <a href="https://drive.google.com/open?id=0B9EECE2zCPBqcTFlMW1sSlk0bXM" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+10. **Spica Z.**, Perton M., Beroza G., Lateral Heterogeneity Imaged by Small-Aperture ScS Retrieval from the Ambient Seismic Field, Geophysical Research Letters, 2017, doi:10.1002/2017GL073230. <a href="https://drive.google.com/open?id=0B9EECE2zCPBqcTFlMW1sSlk0bXM" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 9. Perton M., **Spica Z.**, Caudron C., Inversion of the horizontal to vertical spectral ratio in presence of strong lateral heterogeneity, Geophysical Journal International, 2017. doi:10.1093/gji/ggx458. <a href="https://drive.google.com/open?id=1p_FLRT6wCYuEyXzxfp8z0LoGqT7t5thv" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
