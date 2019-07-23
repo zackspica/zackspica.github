@@ -1,6 +1,7 @@
 _site/
 .jekyll-metadata
 .DS_Store
+my_README.txt
 Gemfile
 Gemfile.lock
 .sass-casche
