@@ -1,5 +1,5 @@
 _site/
-_posts/old/
+.old_posts/
 .jekyll-metadata
 .DS_Store
 my_README.txt
