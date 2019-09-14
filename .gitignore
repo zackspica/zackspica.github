@@ -1,4 +1,5 @@
 _site/
+_posts/old/
 .jekyll-metadata
 .DS_Store
 my_README.txt
@@ -6,4 +7,3 @@ Gemfile
 Gemfile.lock
 .sass-casche
 projects.md
-_posts/2018-12-16-example-content.md
