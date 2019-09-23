@@ -5,9 +5,9 @@ use_fontawesome: true
 use_math: true
 ---
 
-20. Bahavar M, Zandieh A., Toro G., Sanchez-Sesma, **Spica Z.**, et al., Horizontal-to-Vertical Spectral Ratio (HVSR) using IRIS DMC MUSTANG noise-spectrogram Web Services, in prep. 
+20. Bahavar M., **Spica Z.**, S\'{a}nchez-Sesma F. J., Trabant C., Zandieh A., Toro G., Horizontal-to-Vertical Spectral Ratio (HVSR) IRIS Station Toolbox, in prep. 
 
-19. Perton M., **Spica Z.**, Clayton R. W., Beroza G., Assessing the Geometry of the Los Angeles Basin Using Multimode Surface Waves and Full H/V Spectral Ratio, under review GJI.
+19. Perton M., **Spica Z.**, Clayton R. W., Beroza G., ShearWave Structure of a Transect of the Los Angeles Basin From Multimode SurfaceWaves and H/V Spectral Ratio Analysis, under review GJI.
 
 18. Thomas A. M., **Spica Z.**, Bodmer M., Schulz W. H., Roering J. R., Using a dense seismic array to determine resonances and structure of the Two Towers earthflow in Northern California, under review. 
 
