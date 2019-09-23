@@ -5,7 +5,7 @@ use_fontawesome: true
 use_math: true
 ---
 
-20. Bahavar M., **Spica Z.**, S\'{a}nchez-Sesma F. J., Trabant C., Zandieh A., Toro G., Horizontal-to-Vertical Spectral Ratio (HVSR) IRIS Station Toolbox, in prep. 
+20. Bahavar M., **Spica Z.**, Sàchez-Sesma F. J., Trabant C., Zandieh A., Toro G., Horizontal-to-Vertical Spectral Ratio (HVSR) IRIS Station Toolbox, in prep. 
 
 19. Perton M., **Spica Z.**, Clayton R. W., Beroza G., ShearWave Structure of a Transect of the Los Angeles Basin From Multimode SurfaceWaves and H/V Spectral Ratio Analysis, under review GJI.
 
