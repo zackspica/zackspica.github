@@ -15,7 +15,6 @@ use_math: true
 
 16. Lellouch A., Yuan S., **Spica Z.**, Biondi B., and Ellsworth W.L., Seismic velocity estimation using passive downhole distributed acoustic sensing records – examples from the San Andreas Fault Observatory at Depth, 2019, Journal of Geophysical Reasearch (Solid Earth), doi:10.1029/2019JB017533. <a href="https://drive.google.com/file/d/1t9InBMk5L_22fcEepJIPyOPILVZrerdE/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
-
 15. **Spica Z.**, Perton M., Nakata N., Liu X., Beroza G., Shallow Vs imaging of the Groningen area from joint inversion of multi-mode surface waves and H/V spectral ratio, Seismological Research Letter, 2018, doi:10.1785/0220180060. <a href="https://drive.google.com/open?id=1SIf5uoR2gKO0vjCJnGVpFw8mMwJl2szL" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 14. **Spica Z.**, Nakata N., Liu X., Campman X., Zijian T., Beroza G., Ambient Seismic Field Analysis at Groningen Gas Field: an overview from the surface to reservoir depth, Seismological Research Letter, 2018, doi: 10.1785/0220170256. <a href="https://drive.google.com/open?id=1roXfagn5u21iyziD7XVCd3pknYTs9mTl" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
@@ -47,3 +46,11 @@ use_math: true
 <h2>Book chapters</h2>
 
 1. Legrand D., Singh S.K., Scolamacchia T., Espíndola J.M., Lermo J., Jiménez Z., **Spica Z.**, Valenzuela R. W., Valdés-González C., Strong Volcano-Tectonic feed-back interactions revealed by the seismicity before and after the 1982 El Chichón eruptive events, Active Volcanoes of Chiapas (México): El Chichón and Tacaná, VOLCANOES OF THE WORLD, Chapter 7, Book Serie: Springer-Verlag Berlin Heidelberg, 97-114, 2015, doi:10.1007/978-3-642-25890-9 5.   <a href="https://drive.google.com/open?id=0B9EECE2zCPBqV1dKQ0pYM0huZ2s" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+
+<h2>Expanded abstracts</h2>
+
+1. Lellouch A., Yuan S., **Spica Z.**, Biondi B., Ellsworth W., Velocity analysis and moveout-based event detection using downhole DAS records, SEG Technical Program Expanded Abstracts 2019, 989-993. <a href="https://drive.google.com/file/d/1cq53xPfmSjXPlkRvHvC0mX9toJV391OQ/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+
+2. Lellouch A., **Spica Z.**, Biondi B., Ellsworth W., Using Vertical DAS Arrays for Continuous Monitoring of Induced Seismicity, 81st EAGE Conference & Exhibition, London, UK, 2019. <a href="https://drive.google.com/file/d/1ad4bSTVxYPnKy9-crJZcX0xldDiLCy9O/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+
+3. Lellouch A., Yuan S., **Spica Z.**, Biondi B., Ellsworth W., A moveout-based method for the detection of weak seismic events using downhole DAS arrays, 81st EAGE Conference & Exhibition, London, UK, 2019.<a href="https://drive.google.com/file/d/1ji_YBLzqXUXrD6OMuLrt88NuhErpnCku/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
