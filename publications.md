@@ -13,7 +13,7 @@ use_math: true
 
 17. **Spica Z.**, Perton M., Martin E., Beroza G., Biondi B., Urban Seismic Site Characterization by Fiber-Optic Seismology, 2019. <a href="https://eartharxiv.org/j8vn9" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
-16. Lellouch A., Yuan S., **Spica Z.**, Biondi B., and Ellsworth W.L., Seismic velocity estimation using passive downhole distributed acoustic sensing records – examples from the San Andreas Fault Observatory at Depth, 2019, Journal of Geophysical Reasearch (Solid Earth), doi:10.1029/2019JB017533. <a href="https://drive.google.com/file/d/1t9InBMk5L_22fcEepJIPyOPILVZrerdE/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+16. Lellouch A., Yuan S., **Spica Z.**, Biondi B., and Ellsworth W. L., Seismic velocity estimation using passive downhole distributed acoustic sensing records – examples from the San Andreas Fault Observatory at Depth, 2019, Journal of Geophysical Research (Solid Earth), doi:10.1029/2019JB017533. <a href="https://drive.google.com/file/d/1t9InBMk5L_22fcEepJIPyOPILVZrerdE/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 15. **Spica Z.**, Perton M., Nakata N., Liu X., Beroza G., Shallow Vs imaging of the Groningen area from joint inversion of multi-mode surface waves and H/V spectral ratio, Seismological Research Letter, 2018, doi:10.1785/0220180060. <a href="https://drive.google.com/open?id=1SIf5uoR2gKO0vjCJnGVpFw8mMwJl2szL" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
