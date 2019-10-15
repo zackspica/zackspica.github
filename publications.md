@@ -9,7 +9,7 @@ use_math: true
 
 19. Thomas A. M., **Spica Z.**, Bodmer M., Schulz W. H., Roering J. R., Using a dense seismic array to determine resonances and structure of the Two Towers earthflow in Northern California, under review. 
 
-18. Perton M., **Spica Z.**, Clayton R. W., Beroza G., Shear Wave Structure of a Transect of the Los Angeles Basin From Multimode Surface Waves and H/V Spectral Ratio Analysis, 2019, 10.1093/gji/ggz458.
+18. Perton M., **Spica Z.**, Clayton R. W., Beroza G., Shear Wave Structure of a Transect of the Los Angeles Basin From Multimode Surface Waves and H/V Spectral Ratio Analysis, 2019, 10.1093/gji/ggz458. <a href="https://drive.google.com/open?id=1a51c1C_lLjZQSrfaC2G-Vebje8Vh8rRv" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 17. **Spica Z.**, Perton M., Martin E., Beroza G., Biondi B., Urban Seismic Site Characterization by Fiber-Optic Seismology, 2019. <a href="https://eartharxiv.org/j8vn9" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
