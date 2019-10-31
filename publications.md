@@ -49,8 +49,10 @@ use_math: true
 
 <h2>Expanded abstracts</h2>
 
-1. Lellouch A., Yuan S., **Spica Z.**, Biondi B., Ellsworth W., Velocity analysis and moveout-based event detection using downhole DAS records, SEG Technical Program Expanded Abstracts 2019, 989-993. <a href="https://drive.google.com/file/d/1cq53xPfmSjXPlkRvHvC0mX9toJV391OQ/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+4. Huot F., Martin E., **Spica Z.**, Biondi B., Distributed Acoustic Sensing (DAS) for large-scale urban monitoring and seismic hazard mitigation using preexisting telecommunication infrastructure, SEG 2019 Workshop: Geophysics for Smart City Development, Beijing, China, 2019. <a href="https://drive.google.com/file/d/14K5A8gnhbK7ZpOKxN-DEJTJxb0ymcvPi/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+
+3. Lellouch A., Yuan S., **Spica Z.**, Biondi B., Ellsworth W., Velocity analysis and moveout-based event detection using downhole DAS records, SEG Technical Program Expanded Abstracts 2019, 989-993. <a href="https://drive.google.com/file/d/1cq53xPfmSjXPlkRvHvC0mX9toJV391OQ/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 2. Lellouch A., **Spica Z.**, Biondi B., Ellsworth W., Using Vertical DAS Arrays for Continuous Monitoring of Induced Seismicity, 81st EAGE Conference & Exhibition, London, UK, 2019. <a href="https://drive.google.com/file/d/1ad4bSTVxYPnKy9-crJZcX0xldDiLCy9O/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
-3. Lellouch A., Yuan S., **Spica Z.**, Biondi B., Ellsworth W., A moveout-based method for the detection of weak seismic events using downhole DAS arrays, 81st EAGE Conference & Exhibition, London, UK, 2019.<a href="https://drive.google.com/file/d/1ji_YBLzqXUXrD6OMuLrt88NuhErpnCku/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+1. Lellouch A., Yuan S., **Spica Z.**, Biondi B., Ellsworth W., A moveout-based method for the detection of weak seismic events using downhole DAS arrays, 81st EAGE Conference & Exhibition, London, UK, 2019.<a href="https://drive.google.com/file/d/1ji_YBLzqXUXrD6OMuLrt88NuhErpnCku/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
