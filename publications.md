@@ -42,10 +42,12 @@ use_math: true
 3. Córdoba-Montiel F., Iglesias A., Singh S.K., **Spica Z.**, Legrand D., Tomography of Rayleigh wave group velocity for Eastern Mexico and the Isthmus of Tehuantepec, Boletín de la Sociedad Geológica Mexicana, 66.3, 441-457, 2014. <a href="https://drive.google.com/open?id=0B9EECE2zCPBqNUl2T2s2WWxua1k" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 2. UNAM Seismology Group, Ometepec-Pinotepa Nacional, Mexico Earthquake of 20 March 2012 (Mw7.5): A preliminary report, Geofísica International, 52.2, 173-196, 2013, doi:10.1016/S0016-7169(13)71471-5. <a href="https://drive.google.com/open?id=0B9EECE2zCPBqM2poaEpOeXMyc3c" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+{: reversed="reversed"}
 
 <h2>Book chapters</h2>
 
 1. Legrand D., Singh S.K., Scolamacchia T., Espíndola J.M., Lermo J., Jiménez Z., **Spica Z.**, Valenzuela R. W., Valdés-González C., Strong Volcano-Tectonic feed-back interactions revealed by the seismicity before and after the 1982 El Chichón eruptive events, Active Volcanoes of Chiapas (México): El Chichón and Tacaná, VOLCANOES OF THE WORLD, Chapter 7, Book Serie: Springer-Verlag Berlin Heidelberg, 97-114, 2015, doi:10.1007/978-3-642-25890-9 5.   <a href="https://drive.google.com/open?id=0B9EECE2zCPBqV1dKQ0pYM0huZ2s" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+
 
 <h2>Expanded abstracts</h2>
 
@@ -56,3 +58,4 @@ use_math: true
 2. Lellouch A., **Spica Z.**, Biondi B., Ellsworth W., Using Vertical DAS Arrays for Continuous Monitoring of Induced Seismicity, 81st EAGE Conference & Exhibition, London, UK, 2019. <a href="https://drive.google.com/file/d/1ad4bSTVxYPnKy9-crJZcX0xldDiLCy9O/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 1. Lellouch A., Yuan S., **Spica Z.**, Biondi B., Ellsworth W., A moveout-based method for the detection of weak seismic events using downhole DAS arrays, 81st EAGE Conference & Exhibition, London, UK, 2019.<a href="https://drive.google.com/file/d/1ji_YBLzqXUXrD6OMuLrt88NuhErpnCku/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+{: reversed="reversed"}
