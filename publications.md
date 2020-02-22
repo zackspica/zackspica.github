@@ -10,12 +10,11 @@ use_math: true
 
 19. Bahavar M., **Spica Z.**, Sáchez-Sesma F. J., Trabant C., Zandieh A., Toro G., Horizontal-to-Vertical Spectral Ratio (HVSR) IRIS Station Toolbox, in review SRL. 
 
-18. Thomas A. M., **Spica Z.**, Bodmer M., Schulz W. H., Roering J. R., Using a dense seismic array to determine resonances and structure of the Two Towers earthflow in Northern California, 2019, Seismological Research Letter, 2020. <a href="https://drive.google.com/open?id=1rLbpUGc_bARfn1NDgvJlGuKSxFoOcpkf" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+18. **Spica Z.**, Perton M., Martin E., Beroza G., Biondi B., Urban Seismic Site Characterization by Fiber-Optic Seismology, 2020, Journal of Geophysical Research (Solid Earth), doi:10.1029/2019JB018656. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB018656" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
+17. Thomas A. M., **Spica Z.**, Bodmer M., Schulz W. H., Roering J. R., Using a dense seismic array to determine resonances and structure of the Two Towers earthflow in Northern California, 2020, Seismological Research Letter. <a href="https://drive.google.com/open?id=1rLbpUGc_bARfn1NDgvJlGuKSxFoOcpkf" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
-17. Perton M., **Spica Z.**, Clayton R. W., Beroza G., Shear Wave Structure of a Transect of the Los Angeles Basin From Multimode Surface Waves and H/V Spectral Ratio Analysis, 2019, Geophysical Journal International, doi:10.1093/gji/ggz458. <a href="https://drive.google.com/open?id=1cLANRNwoSZufMmXlBH2QxSfYK8ePO1Jp" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
-
-16. **Spica Z.**, Perton M., Martin E., Beroza G., Biondi B., Urban Seismic Site Characterization by Fiber-Optic Seismology, 2019. <a href="https://eartharxiv.org/j8vn9" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+16. Perton M., **Spica Z.**, Clayton R. W., Beroza G., Shear Wave Structure of a Transect of the Los Angeles Basin From Multimode Surface Waves and H/V Spectral Ratio Analysis, 2020, Geophysical Journal International, doi:10.1093/gji/ggz458. <a href="https://drive.google.com/open?id=1cLANRNwoSZufMmXlBH2QxSfYK8ePO1Jp" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 15. Lellouch A., Yuan S., **Spica Z.**, Biondi B., and Ellsworth W. L., Seismic velocity estimation using passive downhole distributed acoustic sensing records – examples from the San Andreas Fault Observatory at Depth, 2019, Journal of Geophysical Research (Solid Earth), doi:10.1029/2019JB017533. <a href="https://drive.google.com/open?id=1bzbStvLJYwzY00gzEFlIdumZZ4QQ6MH6" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
