@@ -8,7 +8,7 @@ use_math: true
 20. Garza-Girón R.,  Brodsky E., **Spica Z.** and Haney M., The hidden earthquakes of the 2008 Okmok caldera eruption show dynamic opening and closing of the system, in prep.
 
 
-19. Bahavar M., **Spica Z.**, Sáchez-Sesma F. J., Trabant C., Zandieh A., Toro G., Horizontal-to-Vertical Spectral Ratio (HVSR) IRIS Station Toolbox, in prep. 
+19. Bahavar M., **Spica Z.**, Sáchez-Sesma F. J., Trabant C., Zandieh A., Toro G., Horizontal-to-Vertical Spectral Ratio (HVSR) IRIS Station Toolbox, in review SRL. 
 
 18. Thomas A. M., **Spica Z.**, Bodmer M., Schulz W. H., Roering J. R., Using a dense seismic array to determine resonances and structure of the Two Towers earthflow in Northern California, 2019, Seismological Research Letter, 2020. <a href="https://drive.google.com/open?id=1rLbpUGc_bARfn1NDgvJlGuKSxFoOcpkf" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
