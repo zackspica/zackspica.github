@@ -9,7 +9,7 @@ use_math: true
 
 19. Bahavar M., **Spica Z.**, Sáchez-Sesma F. J., Trabant C., Zandieh A., Toro G., Horizontal-to-Vertical Spectral Ratio (HVSR) IRIS Station Toolbox, in review SRL. 
 
-18. **Spica Z.**, Perton M., Martin E., Beroza G., Biondi B., Urban Seismic Site Characterization by Fiber-Optic Seismology, 2020, Journal of Geophysical Research (Solid Earth), doi:10.1029/2019JB018656. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB018656" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
+18. **Spica Z.**, Perton M., Martin E., Beroza G., Biondi B., Urban Seismic Site Characterization by Fiber-Optic Seismology, 2020, Journal of Geophysical Research (Solid Earth), doi:10.1029/2019JB018656. <a href="https://drive.google.com/file/d/1nf_aWkW3LmDt5YLmTvCazYMsPiZUUjIl/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
 17. Thomas A. M., **Spica Z.**, Bodmer M., Schulz W. H., Roering J. R., Using a dense seismic array to determine resonances and structure of the Two Towers earthflow in Northern California, 2020, Seismological Research Letter. <a href="https://drive.google.com/open?id=1rLbpUGc_bARfn1NDgvJlGuKSxFoOcpkf" target="_blank"><i class="fa fa-file-pdf"></i> Paper</a>
 
