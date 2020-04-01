@@ -60,13 +60,14 @@ The other authors of the JGR Solid Earth paper are Biondo Biondi of Stanford, Ma
 
 This news release includes information provided by Stanford University.
 
+
 -----
 This article was written by [James Erickson](https://news.umich.edu/author/jim-erickson/) (ericksn@umich.edu) and the original press release can be found [here](https://news.umich.edu/study-shows-potential-for-using-fiber-optic-networks-to-assess-ground-motions-during-earthquakes/).  
 
 More information:
 
-> - Study: [Urban Seismic Site Characterization by Fiber-Optic Seismology](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB018656)
-> - [Stanford Release](https://earth.stanford.edu/news/harnessing-fiber-optic-networks-map-earthquake-trouble-spots#gs.2io31n)
+- Study: [Urban Seismic Site Characterization by Fiber-Optic Seismology](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB018656)
+- [Stanford Release](https://earth.stanford.edu/news/harnessing-fiber-optic-networks-map-earthquake-trouble-spots#gs.2io31n)
 
 
 
