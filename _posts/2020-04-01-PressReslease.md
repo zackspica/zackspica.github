@@ -5,7 +5,7 @@ comments: true
 use_code: true
 ---
 
-#H1 Study shows potential for using fiber-optic networks to assess ground motions during earthquakes
+# Study shows potential for using fiber-optic networks to assess ground motions during earthquakes
 
 
 ANN ARBOR - A new study from a University of Michigan researcher and colleagues at three institutions demonstrates the potential for using existing networks of buried optical fibers as an inexpensive observatory for monitoring and studying earthquakes.
