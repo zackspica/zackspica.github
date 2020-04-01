@@ -24,11 +24,7 @@ said geophysicist Greg Beroza, a co-author on the paper and the Wayne Loel Profe
 
 To transform a fiber-optic cable into a seismic sensor, the researchers connect an instrument called a laser interrogator to one end of the cable. It shoots pulses of laser light down the fiber. The light bounces back when it encounters impurities along the fiber, creating a “backscatter signal” that is analyzed by a device called an interferometer.
 
-<div class="row content-row">
-<div class="col-12 col-sm-4 image-wrapper">
-<img src="{{ site.baseurl }}/images/Adisp_xcoher_picks_srcCh55.pdf">
-</div>
-<div class="col-12 col-sm-8">
+![DC](https://github.com/zackspica/zackspica.github.io/blob/master/images/disp.png)
 
 Changes in the backscatter signal can reveal how the fiber stretches or compresses in response to passing disturbances, including seismic waves from earthquakes. The technique is called distributed acoustic sensing, or DAS, and has been used for years to monitor the health of pipelines and wells in the oil and gas industry.
 
