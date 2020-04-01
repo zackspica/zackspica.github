@@ -5,7 +5,7 @@ comments: true
 use_code: true
 ---
 
-# Study shows potential for using fiber-optic networks to assess ground motions during earthquakes
+## Study shows potential for using fiber-optic networks to assess ground motions during earthquakes
 
 
 ANN ARBOR - A new study from a University of Michigan researcher and colleagues at three institutions demonstrates the potential for using existing networks of buried optical fibers as an inexpensive observatory for monitoring and studying earthquakes.
@@ -13,6 +13,7 @@ ANN ARBOR - A new study from a University of Michigan researcher and colleagues 
 The study provides new evidence that the same optical fibers that deliver high-speed internet and HD video to our homes could one day double as seismic sensors.
 
 > Fiber-optic cables are the backbone of modern telecommunications, and we have demonstrated that we can turn existing networks into extensive seismic arrays to assess ground motions during earthquakes,
+
 said U-M seismologist Zack Spica, first author of a paper published online Feb. 12 in the journal JGR Solid Earth.
 
 The study was conducted using a prototype array at Stanford University, where Spica was a postdoctoral fellow for several years before recently joining the U-M faculty as an assistant professor in the Department of Earth and Environmental Sciences. Co-authors include researchers at Stanford and from Mexico and Virginia.
