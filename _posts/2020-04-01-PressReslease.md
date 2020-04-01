@@ -60,7 +60,7 @@ This article was written by [James Erickson](https://news.umich.edu/author/jim-e
 
 More information:
 
-Study: [Urban Seismic Site Characterization by Fiber-Optic Seismology](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB018656)
+> - Study: [Urban Seismic Site Characterization by Fiber-Optic Seismology](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB018656)
 
 
 
