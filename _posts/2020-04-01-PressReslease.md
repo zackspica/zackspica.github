@@ -63,7 +63,7 @@ This article was written by [James Erickson](https://news.umich.edu/author/jim-e
 More information:
 
 > - Study: [Urban Seismic Site Characterization by Fiber-Optic Seismology](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB018656)
-
+> - [Stanford Release](https://earth.stanford.edu/news/harnessing-fiber-optic-networks-map-earthquake-trouble-spots#gs.2io31n)
 
 
 
