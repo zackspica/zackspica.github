@@ -5,7 +5,7 @@ use_fontawesome: true
 use_math: true
 ---
 
-20. Garza-Giron R.,  Brodsky E., **Spica Z.** and Haney M., Clog and Crack: Opening and Closing Behavior of a Large-Scale Explosive Eruption as Recorded by its Hidden Earthquakes, in prep.
+20. Garza-Giron R.,  Brodsky E., **Spica Z.** and Haney M., Clog and Crack: Opening and Closing Behavior of a Large-Scale Explosive Eruption as Recorded by its Hidden Earthquakes, in review AGU Advances.
 
 19. Bahavar M., **Spica Z.**, Sáchez-Sesma F. J., Trabant C., Zandieh A., Toro G., Horizontal-to-Vertical Spectral Ratio (HVSR) IRIS Station Toolbox, in review SRL. 
 
